@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 numpy = "==1.19.3"
 librosa = "*"
+ffmpeg = "*"
 
 [dev-packages]
 
